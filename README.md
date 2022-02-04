@@ -1,6 +1,7 @@
 <h2 align="center">
-MediaPipe Face Recognition
+MediaPipe Face Detection
 </h2>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-v3.10-blue.svg"/>
