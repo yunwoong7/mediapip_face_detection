@@ -7,7 +7,7 @@ MediaPipe Face Detection
   <img src="https://img.shields.io/badge/python-v3.10-blue.svg"/>
   <img src="https://img.shields.io/badge/mediapipe-v0.8.9.1-blue.svg"/>
 </div>
-[미디어파이프(MediaPipe)](https://google.github.io/mediapipe/)는 구글에서 인체를 대상으로 하는 인식에 대해 다양한 형태로 기능과 모델까지 제공하는 서비스입니다. Python 이외에도 다양한 프로그램언어와 환경에서에서 사용하기 편리한 라이브러리 형태로 제공되며 설치 후 즉시 간편하게 사용이 가능합니다.
+[미디어파이프(Mediapipe)](https://google.github.io/mediapipe/)는 구글에서 인체를 대상으로 하는 인식에 대해 다양한 형태로 기능과 모델까지 제공하는 서비스입니다. Python 이외에도 다양한 프로그램언어와 환경에서에서 사용하기 편리한 라이브러리 형태로 제공되며 설치 후 즉시 간편하게 사용이 가능합니다.
 
 이전 글에서 소개한 dlib을 이용한 얼굴인식을 처음 사용해본건 2018년이였는데 처음 사용 했을 때 신기하기도 했고 상당히 빠르기때문에 영상에 적용하여 다양한 응용도 했었습니다. 하지만 dlib을 사용하면서 이런 부분은 조금 문제가 있어서 어려움이 있겠구나 하는 부분도 많았죠. (물론 dlib를 모두 이해하고 사용해본것은 아니지만..)
 
