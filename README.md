@@ -165,9 +165,11 @@ with mp_face_mesh.FaceMesh(static_image_mode=static_image_mode,
   <img src="/asset/images/img2.gif" width="70%">
 </div>
 
-MediaPipe는 인공지능을 이용한 얼굴, 포즈인식 모듈입니다. Python, Android, iOS, C++, JS, Coral의 언어들에서 사용이 가능하며 다양한 기능을 제공하고 있습니다.
+<hr/>
 
-![img](https://blog.kakaocdn.net/dn/beF0RJ/btrrUtBB3Jx/eWvg82dwiK2a5yKCFBRdqK/img.png)
+MediaPipe는 인공지능을 이용한 얼굴, 포즈인식 모듈입니다. Python, Android, iOS, C++, JS, Coral의 언어들에서 사용이 가능하며 다양한 기능을 제공하고 있습니다.
+<div align="center">
+  <img src="https://blog.kakaocdn.net/dn/beF0RJ/btrrUtBB3Jx/eWvg82dwiK2a5yKCFBRdqK/img.png"/> <br/>&nbsp;
 
 |                         | **Android** | **iOS** | **C++** | **Python** | **JS** | **Coral** |
 | ----------------------- | ----------- | ------- | ------- | ---------- | ------ | --------- |
@@ -187,3 +189,4 @@ MediaPipe는 인공지능을 이용한 얼굴, 포즈인식 모듈입니다. Pyt
 | AutoFlip                |             |         | ✅       |            |        |           |
 | MediaSequence           |             |         | ✅       |            |        |           |
 | YouTube 8M              |             |         | ✅       |            |        |           |
+  </div>
